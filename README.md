@@ -4,8 +4,4 @@
 
 ### Tecnologias:
 
-Typescript
-Nodejs
-PostgreSQL
-Sequelize
-AdminJs
+Typescript, Nodejs, PostgreSQL, Sequelize e o AdminJs
